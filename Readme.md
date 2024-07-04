@@ -5,3 +5,5 @@ Medimos a velocidade e a eficiência para seres Humanos
 Conclusão é que daqui a 10 anos C só será eficiente para projetos MUITO complexos 
 
 Python aumentará a velocidade em projetos COMPLEXOS
+
+isso significa que: as possibilidades irão se abrir para criação de projetos mais complexos usando C e C++
